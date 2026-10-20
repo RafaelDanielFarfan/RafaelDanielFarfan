@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Rafael Daniel</title>
+  <desc id="d">Full Stack Developer and QA Automation Engineer</desc>
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="30%" r="60%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="300" rx="14" fill="#f6f8fa"/>
+  
+  <rect x="0.5" y="0.5" width="1279" height="299" rx="13.5" fill="none" stroke="#d0d7de"/>
+  <g font-family="'Oswald','Arial Narrow','Helvetica Neue',Arial,sans-serif" font-weight="700">
+    <text x="72" y="140" font-size="104" letter-spacing="3" fill="#0a0a0a">RAFAEL</text>
+    <text x="72" y="244" font-size="104" letter-spacing="3" fill="none" stroke="#0a0a0a" stroke-width="1.6">DANIEL</text>
+  </g>
+  <line x1="640" y1="70" x2="640" y2="230" stroke="#d0d7de" stroke-width="1"/>
+  <g font-family="'Helvetica Neue',Arial,sans-serif">
+    <text x="690" y="108" font-size="13" letter-spacing="5" fill="#57606a">FULL STACK DEVELOPER</text>
+    <text x="690" y="138" font-size="13" letter-spacing="5" fill="#57606a">QA AUTOMATION ENGINEER</text>
+    <line x1="690" y1="162" x2="760" y2="162" stroke="#0a0a0a" stroke-width="2"/>
+    <text x="690" y="196" font-size="17" fill="#24292f">React · Java / Spring Boot · NestJS</text>
+    <text x="690" y="224" font-size="17" fill="#24292f">Playwright · Selenium · Python · CI/CD</text>
+  </g>
+</svg>
