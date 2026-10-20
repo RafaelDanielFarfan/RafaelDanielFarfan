@@ -42,8 +42,8 @@ I build web products end to end, and the test automation that keeps them reliabl
   </tr>
   <tr>
     <td valign="top">
-      <b><a href="https://gitlab.com/rafael-daniel-farfan/microservice-trazabilidad">Food Court Microservices</a></b><br>
-      Four decoupled microservices with Hexagonal Architecture and TDD.<br>
+      <b><a href="https://gitlab.com/hexagonal-project/hexagonal">Food Court Microservices</a></b> · GitLab group<br>
+      Four decoupled microservices in Hexagonal Architecture: users with JWT authentication, restaurants and dishes, order traceability (MongoDB and RabbitMQ) and SMS notifications (Twilio).<br>
       <sub><code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>MongoDB</code> <code>RabbitMQ</code></sub>
     </td>
     <td valign="top">
